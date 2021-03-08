@@ -1,7 +1,6 @@
 .inscription {
     padding: 5% 25vw;
-    background-image: url('https://blogmedia.evbstatic.com/wp-content/uploads/wpmulti/sites/8/shutterstock_126777980.jpg');
-
+    background-image: url('../images/back-photo-inscription.jpg');
 }
 
 h2 {
