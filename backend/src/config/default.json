@@ -1,0 +1,13 @@
+{
+    "APP_PORT": 3000,
+    "LIMIT_RATE": {
+        "LOGIN": {
+            "LIMIT":10,
+            "WMS": 60000 
+        },
+        "ALL": {
+            "LIMIT":100,
+            "WMS": 1200000 
+        }
+    }
+}

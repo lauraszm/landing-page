@@ -1,0 +1,11 @@
+{
+    "APP_PORT": 4000,
+    "LIMIT_RATE": {
+        "LOGIN": {
+            "LIMIT":5
+        },
+        "ALL": {
+            "LIMIT":10
+        }
+    }
+}
